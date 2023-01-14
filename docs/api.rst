@@ -1,7 +1,7 @@
 .. _api:
 
-Developer Interface
-===================
+Developer Interface 
+https://github.com/ping/instagram_private_api/compare/master...Nousheenwaseem:instagram_private_api:patch-1
 
 This page of the documentation will cover all methods and classes available to the developer.
 
